@@ -8,21 +8,24 @@ The goal is to give users clear and structured information about centres such as
 
 # 📂 Features
 
-
 -Provides details about Butibori MIDC.
+
 -Includes information related to the Tembhari region.
+
 -Shares updates on training centers (SDC / Skill Development Centres).
+
 -Easy-to-read and user-friendly format.
 
 # 📍 Location Details
 
 
 Butibori MIDC: Major industrial hub near Nagpur.
+
 Tembhari: Nearby village/area within Nagpur district.
+
 PIN Codes: 441122 / 441108 (depending on exact area).
 
 # 🧭 Possible Centers Covered
-
 
 Butibori Manufacturers Association (BMA) Training Centre.MIDC Garden / Public area (Tembhari).Skill Development or Education-based centers (if applicable).
 
