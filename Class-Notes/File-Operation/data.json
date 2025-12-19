@@ -1,0 +1,35 @@
+{"emp_details":
+    [
+    {"emp_name":"Sayli",
+     "email":"sayali123@gmail.com",
+     "job_prtofile":"data scintist"
+   
+    },
+    {
+     "emp_name":"prachi",
+     "email":"prachi123@gmail.com",
+     "job_prtofile":"dataanalyst"
+    },
+    {
+     "emp_name":"Gauri",
+     "email":"Gauri123@gmail.com",
+     "job_prtofile":"It Engineer"
+    }
+],
+"emp_salary":
+    [
+    {"emp_name":"Sayli",
+    "salary":20000
+     
+   
+    },
+    {
+     "emp_name":"prachi",
+     "salary":30000
+    },
+    {
+     "emp_name":"Gauri",
+     "salary":50000
+    }
+]
+}
