@@ -30,14 +30,20 @@ Butibori Manufacturers Association (BMA) Training Centre.MIDC Garden / Public ar
 
 
 As of the latest information:
+
 -No official or verified record exists for a center named “Tembhari SDC Center by MIDC EduSpark”.
+
 -It may be an informal name, new center, or a misunderstanding of an existing training facility.
 
 # 📞 How to Verify
 
 
 To confirm if such a center exists:
+
 -Visit Butibori MIDC office.
+
 -Check local listings or ask residents in Tembhari.
+
 -Contact BMA Training Center.
+
 -Check Nagpur government skill-development portal.
