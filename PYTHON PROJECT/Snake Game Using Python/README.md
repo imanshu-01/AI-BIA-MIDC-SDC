@@ -4,6 +4,7 @@ A classic **Snake Game** built using **Python** and the **Turtle graphics librar
 The player controls a snake using keyboard arrow keys and tries to eat apples to increase the score while avoiding collisions.
 
 ---
+<img width="1342" height="276" alt="Image" src="https://github.com/user-attachments/assets/cff0945a-ffa3-4e8a-94fc-b0ade2162570" />
 
 ## 📌 About the Project
 
