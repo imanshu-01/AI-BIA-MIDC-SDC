@@ -76,7 +76,7 @@ Run the game from **Command Prompt or PowerShell**, not from restricted IDE term
 ## 📂 Project Structure
 
 ```
-Snake-Game/
+Snake Game Using Python/
 │── snake_game.py
 │── README.md
 ```
